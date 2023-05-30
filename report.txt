@@ -1,0 +1,28 @@
+
+Name : aaa
+
+Age : 45
+
+Weight : 150.0
+
+ Height : 150.0
+
+BMR : 2565.0
+
+BMI : 66.66666666666667
+
+ Weight State : Overweight
+
+Name : zzz
+
+Age : 12
+
+Weight : 60.0
+
+ Height : 170.0
+
+BMR : 1656.4
+
+BMI : 20.761245674740486
+
+ Weight State : Optimal weight
